@@ -35,6 +35,7 @@ a{
 .menu__items{
     display: flex;
     justify-content: space-between;
+    color: #1E266D;
 }
 
 .menu-item{
